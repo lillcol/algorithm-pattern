@@ -89,7 +89,7 @@
 
 持续更新中，觉得还可以的话点个 **star** 收藏呀 ⭐️~
 
-【 Github 】[https://github.com/greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) ⭐️
+【 Github 】[https://github.com/Tamicer/algorithm-pattern](https://github.com/Tamicer/algorithm-pattern ⭐️
 
 ## 完成打卡
 
