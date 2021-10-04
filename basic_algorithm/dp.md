@@ -654,7 +654,7 @@ func min(a,b int)int{
 
 说明
 
-> 另外一种做法：MAXLEN(a,b)-LCS(a,b)
+> 另外一种做法：MAXLEN(a,b)-LCS(a,b)，但是这里应该不行，举个例子["intention"，"execution"],lsc=5(etion),maxlen=9,maxLen-lcs=4，实际答案是5
 
 ## 零钱和背包（10%）
 
